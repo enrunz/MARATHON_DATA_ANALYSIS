@@ -8,13 +8,13 @@
 ## Marathon Investigation 
  The follwoing is an exploration of the data provided by the Moscow Marathon. As I train for my first marathon, I found it very helpful to find underlying insights in the captured data. Please follow the Jupyter Notebook to see how I've used the data to know more about what makes a successful marathon runner. 
  
- Below you will also find the outline of the project as delineated by Ironhack. 
+ PLEASE REFER TO THE FILE Presentation.pdf or the link below. 
 
 ### Check out the presentation in the following link: 
 
 (https://www.canva.com/design/DAFO-vw-Rxg/abAkiqN2kd-jSaNybb4hWg/watch?utm_content=DAFO-vw-Rxg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-
+Below you will also find the outline of the project as delineated by Ironhack. 
 
 ## Overview
 
