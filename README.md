@@ -1,6 +1,32 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
+![Beach run](https://user-images.githubusercontent.com/105838147/195735424-e3fbda29-2f2f-4dc9-b22f-140615db6f0c.gif)
+
+
 # Project: Visualizing Real World Data
+
+## Marathon Investigation 
+ The follwoing is an exploration of the data provided by the Moscow Marathon. As I train for my first marathon, I found it very helpful to find underlying insights in the captured data. Please follow the Jupyter Notebook to see how I've used the data to know more about what makes a successful marathon runner. 
+ 
+ Below you will also find the outline of the project as delineated by Ironhack. 
+
+# Check out the presentation in the following link: 
+
+file:///Users/derinkivaner/Downloads/MOSCOW.slides.html#/20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Overview
 
