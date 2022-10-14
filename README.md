@@ -12,19 +12,7 @@
 
 ### Check out the presentation in the following link: 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+file:///Users/derinkivaner/Desktop/MOSCOW.slides%20(5).html#/
 
 
 
