@@ -12,7 +12,7 @@
 
 ### Check out the presentation in the following link: 
 
-file:///Users/derinkivaner/Desktop/MOSCOW.slides%20(5).html#/
+(https://www.canva.com/design/DAFO-vw-Rxg/abAkiqN2kd-jSaNybb4hWg/watch?utm_content=DAFO-vw-Rxg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 
