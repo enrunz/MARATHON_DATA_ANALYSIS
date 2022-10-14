@@ -10,7 +10,7 @@
  
  Below you will also find the outline of the project as delineated by Ironhack. 
 
-# Check out the presentation in the following link: 
+### Check out the presentation in the following link: 
 
 file:///Users/derinkivaner/Downloads/MOSCOW.slides.html#/20
 
